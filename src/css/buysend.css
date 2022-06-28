@@ -8,11 +8,11 @@ body, html{
     background-position: center center;
     background-attachment: fixed;
 }
-.container{
+.container-fluid{
 	height:100vh;
 }
 
-.row{
+.first-row{
 	height:100vh;
 }
 a {
