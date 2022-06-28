@@ -4,7 +4,7 @@ function buysend() {
   return (
     <div className="buysend">
       <div className="container-fluid">
-        <div className="row justify-content-start align-items-center">
+        <div className="row first-row justify-content-start align-items-center">
           <div className="col-md-3">
             <div>
               <img src={require("./images/smalldiamond.png")} alt="" />
