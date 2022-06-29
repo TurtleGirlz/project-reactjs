@@ -9,7 +9,7 @@ body, html{
     background-attachment: fixed;
 }
 
-.container{
+.container-fluid{
 	height:100vh;
 }
 
